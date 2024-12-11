@@ -127,6 +127,33 @@ Feel free to fork this repository and contribute by submitting a pull request. C
 
 ---
 
+## Work in Progress 🚧
+
+This project is currently under development. Below are some of the remaining tasks to complete the application:
+
+### Backend
+- Set up the MongoDB connection and handle potential connection errors.
+- Finalize authentication middleware and secure protected routes.
+- Integrate profile image upload functionality using Multer.
+
+### Frontend
+- Design and develop the dashboard to display user tasks.
+- Complete the `TaskForm` component for adding and editing tasks.
+- Style the login and registration pages for a better user experience.
+- Add logout functionality to clear JWT tokens and redirect users.
+
+### General
+- Deploy both backend and frontend to appropriate cloud platforms.
+- Integrate the frontend and backend, ensuring end-to-end functionality.
+
+---
+
+## Issues
+
+If you encounter bugs or want to track development progress, check out the [Issues](https://github.com/Aman1337g/AltiusHub-task-managment-application/issues) section of this repository. Feel free to report bugs, suggest features, or contribute to open issues!
+
+---
+
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the license terms.
