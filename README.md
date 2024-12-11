@@ -1,4 +1,3 @@
-```markdown
 # Task Management Web Application - TaskRabbit
 
 A simple task management application with user registration, authentication, profile image upload, and task management features (CRUD operations). Built using *React* for the frontend, *Node.js/Express* for the backend, and *MongoDB* for the database.
@@ -131,4 +130,3 @@ Feel free to fork this repository and contribute by submitting a pull request. C
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the license terms.
-```
